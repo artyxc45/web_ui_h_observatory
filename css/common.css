@@ -1,0 +1,12 @@
+@charset "utp-8";
+
+@font-face{
+    font-family: 'GimhaeGayaB';
+    src: url(../font/GimhaeGayaB.ttf) format('truetype');
+    font-style: italic;
+}
+
+@font-face{
+            font-family: 'egg';
+            src: url(font/Manilla\ Queen.otf) format('opentype');
+        }

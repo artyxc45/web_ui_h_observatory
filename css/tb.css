@@ -1,0 +1,16 @@
+@charset "utp-8";
+
+/* 웹브라우저 창의 위쪽과 왼쪽에 생기는 여백 마진값과 패딩값을 0으로 초기화 함 */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* 웹브라우저 좌측 상단에 나타나는 a태그 메뉴들에 대한 CSS 표현값을 지정해줌 */
+
+a{
+    text-decoration: none;
+    margin: 10px 30px;
+    font-weight: bold;
+    color: #757bf6;
+}

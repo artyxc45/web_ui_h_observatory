@@ -1,0 +1,6 @@
+@charset "utp-8";
+
+@font-face{
+    font-family: 'nice';
+    src: url('../font_egg/HSGyeoulNoonkott2.0-Regular.ttf') format('truetype');
+}
